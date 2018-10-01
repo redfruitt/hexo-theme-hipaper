@@ -6,7 +6,7 @@
 menu:
   Home: /
   Archives: archives
-  Categoriess: categories
+  Categories: categories
   Tags: tags
   About: about
 rss: /atom.xml
