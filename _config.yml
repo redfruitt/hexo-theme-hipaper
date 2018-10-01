@@ -5,8 +5,8 @@
 # Header Menu
 menu:
   Home: /
-  Test: archives
-  Categories: categories
+  Archives: archives
+  Categoriess: categories
   Tags: tags
   About: about
 rss: /atom.xml
