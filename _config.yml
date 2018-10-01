@@ -10,7 +10,8 @@ menu:
   Tags: tags
   About: about
 rss: /atom.xml
-
+sitemap:
+    path: sitemap.xml
 
 # Set default keywords (Use a comma to separate)
 keywords: ""
