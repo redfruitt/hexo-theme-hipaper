@@ -46,9 +46,8 @@ fancybox: true
 sidebar: right
 widgets:
 - search
-- subscription
-- recent_posts
 - social
+- recent_posts
 
 # Social Links
 # Key is the name of FontAwsome icon.
@@ -110,4 +109,3 @@ facebook_sdk:
   fb_admin:     #<user_id>
   like_button:  #true
   webmaster:    #true
-
