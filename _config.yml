@@ -8,7 +8,7 @@ menu:
   Archives: archives
   Categories: categories
   Tags: tags
-  About: about
+ 
 rss: /atom.xml
 sitemap:
     path: sitemap.xml
@@ -48,9 +48,6 @@ widgets:
 - search
 - social
 - recent_posts
-- category
-- tag
-- archive
 
 # Social Links
 # Key is the name of FontAwsome icon.
@@ -70,7 +67,7 @@ search:
 
 # comment ShortName, you can choose only ONE to display.
 duoshuo_shortname: 
-disqus_shortname: 
+disqus_shortname: https-www-asimovondalalstreet-com 
 livere_shortname: 
 uyan_uid: 
 wumii: 
