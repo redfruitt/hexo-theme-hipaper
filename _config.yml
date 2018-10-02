@@ -46,9 +46,10 @@ fancybox: true
 sidebar: right
 widgets:
 - search
+- social
 - subscription
 - recent_posts
-- social
+
 
 # Social Links
 # Key is the name of FontAwsome icon.
