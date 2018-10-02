@@ -35,7 +35,7 @@ about_big_image: [css/images/pose01.jpg, https://source.unsplash.com/collection/
 
 
 # Homepage thumbnail
-random_thumb: true
+random_thumb: false
 
 
 # Content
@@ -94,7 +94,7 @@ baidu_site_verification:
 qihu_site_verification:
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-126821990-1
 gauges_analytics:
 baidu_analytics:
 tencent_analytics:
